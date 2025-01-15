@@ -1,7 +1,3 @@
-Here's a professional and detailed README file for your **Multi-Store Admin** repository:  
-
----
-
 # **Multi-Store Admin Dashboard**  
 
 A comprehensive admin dashboard for managing multiple stores, built with **Next.js**, **TypeScript**, **Firebase**, and **Tailwind CSS**. This project aims to streamline the management of stores by providing robust features for data handling, user management, and analytics, ensuring a seamless and efficient admin experience.
