@@ -99,6 +99,13 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
+## **Related Project**  
+This Admin Dashboard works in tandem with the Client Dashboard to deliver a comprehensive multi-store management solution.
+
+Client Dashboard Repository: [Multi-Store Client Dashboard](https://github.com/Ibrahimkazi18/Multi-Store-Client-Portal)
+
+---
+
 ## **License**  
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.  
